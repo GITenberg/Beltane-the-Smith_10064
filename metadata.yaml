@@ -1,0 +1,30 @@
+_repo: Beltane-the-Smith_10064
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Farnol, Jeffery
+    aliases:
+    - Farnol, John Jeffery
+    - Farnol, Jack
+    - Farnol, Jeffrey
+    birthdate: 1878
+    deathdate: 1952
+    gutenberg_agent_id: '789'
+    url: http://www.gutenberg.org/2009/agents/789
+    wikipedia: http://en.wikipedia.org/wiki/Jeffery_Farnol
+description: In medieval England fierce battles, loyalty, love and trickery all play
+  their part in Beltane's struggle to defeat a tyrant.
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10064'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Blacksmiths -- Fiction'
+- GITenberg
+title: Beltane the Smith
+url: http://www.gutenberg.org/ebooks/10064
