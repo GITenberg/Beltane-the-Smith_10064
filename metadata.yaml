@@ -1,5 +1,8 @@
 _repo: Beltane-the-Smith_10064
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Farnol, Jeffery
@@ -14,6 +17,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Jeffery_Farnol
 description: In medieval England fierce battles, loyalty, love and trickery all play
   their part in Beltane's struggle to defeat a tyrant.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10064#Beltane-the-Smith
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
